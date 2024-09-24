@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = nfa_to_dfa_conversion.Tests
+build_property.ProjectDir = C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
