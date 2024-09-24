@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NLWnA2khIFOzt0OaAlhB+6wOzjVOpZmEuLolgpH9uX2E6W7WLdu/IX/HGNSZ2OvlRFlcZ/C9uxKjk8UKnd3GGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Praveenkumar\\Desktop\\AUTOMATA CONVERTER\\nfa-to-dfa-conversion\\nfa-to-dfa-conversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Praveenkumar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Praveenkumar\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Praveenkumar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Praveenkumar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,44 @@
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.exe
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\example.csv
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.deps.json
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.runtimeconfig.json
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.runtimeconfig.dev.json
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.dll
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.pdb
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.csproj.AssemblyReference.cache
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.AssemblyInfoInputs.cache
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.AssemblyInfo.cs
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.csproj.CoreCompileInputs.cache
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.dll
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.pdb
+C:\Users\jooth\Desktop\nfa-to-dfa-conversion-master\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.genruntimeconfig.cache
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.exe
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\example.csv
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.deps.json
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.runtimeconfig.json
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.runtimeconfig.dev.json
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.dll
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.pdb
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.csproj.AssemblyReference.cache
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.AssemblyInfoInputs.cache
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.AssemblyInfo.cs
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.csproj.CoreCompileInputs.cache
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.dll
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.pdb
+C:\Users\jooth\Desktop\NFA 2 DFA\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.genruntimeconfig.cache
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.exe
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\example.csv
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.deps.json
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.runtimeconfig.json
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.runtimeconfig.dev.json
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.dll
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\bin\Debug\netcoreapp3.1\nfa-to-dfa-conversion.pdb
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.AssemblyInfoInputs.cache
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.AssemblyInfo.cs
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.csproj.CoreCompileInputs.cache
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.dll
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.pdb
+C:\Users\Praveenkumar\Desktop\AUTOMATA CONVERTER\nfa-to-dfa-conversion\obj\Debug\netcoreapp3.1\nfa-to-dfa-conversion.genruntimeconfig.cache
