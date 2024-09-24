@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "nfa-to-dfa-conversion/1.0.0": {
+        "runtime": {
+          "nfa-to-dfa-conversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nfa-to-dfa-conversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
